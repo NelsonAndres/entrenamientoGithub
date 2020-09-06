@@ -1,7 +1,19 @@
+
+
 body {
 
     text-align: center;
     background-color: antiquewhite;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: darkred;
+}
+
+header {
+    width: 60vw;
+    background-clip: content-box;
+    background-blend-mode: hard-light;
+    background-color: firebrick;
+    color: antiquewhite;
+    border: 1px solid white;
+    margin: 0 auto;
 }
